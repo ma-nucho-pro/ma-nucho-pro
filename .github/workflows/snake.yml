@@ -22,9 +22,8 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg?palette=github
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.gif?palette=github-dark
 
-      - name: Publish animation to output branch
+      - name: Publish SVG to output branch
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
