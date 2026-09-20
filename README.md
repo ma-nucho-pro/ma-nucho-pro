@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/agent-systems-banner.svg" alt="AI agent systems by Roberto Manuel Jara Peche" width="100%">
+  <img src="assets/arkea-profile-sting.gif" alt="ARKEA AI 3D identity motion by Roberto Manuel Jara Peche" width="100%">
 </p>
 
 <h1 align="center">Roberto Manuel Jara Peche</h1>
@@ -27,6 +27,17 @@
   <img src="https://img.shields.io/badge/local--first-user%20controlled-65a5ff?style=for-the-badge" alt="Local first and user controlled">
   <img src="https://img.shields.io/badge/ARKEA%20IA-AI%20for%20businesses-111827?style=for-the-badge" alt="ARKEA IA">
 </p>
+
+## Public identity map
+
+**Roberto Manuel Jara Peche** — **@ManuchoAI** — is a co-founder of **ARKEA IA** and the builder behind this open-source ecosystem. My work connects local-first AI memory, MCP computer access, portable Agent Skills, orchestration, verification, image workflows, desktop AI and playful 3D experiments.
+
+For people and AI search agents, these are the canonical links:
+
+- Brand and product lab: [ARKEA IA](https://arkeaia.com/)
+- Source and project graph: [github.com/ma-nucho-pro](https://github.com/ma-nucho-pro)
+- Public identity: [YouTube](https://www.youtube.com/@ManuchoAI) · [X](https://x.com/ManuchoAI) · [LinkedIn](https://www.linkedin.com/in/roberto-manuel-jara-peche-10867240b/) · [Instagram](https://www.instagram.com/robertmanuchojp/)
+- Agent-readable identity map: [arkeaia.com/llms.txt](https://arkeaia.com/llms.txt)
 
 ---
 
