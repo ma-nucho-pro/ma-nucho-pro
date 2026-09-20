@@ -229,11 +229,13 @@ snake eats the cells that actually exist; it is not a fabricated activity counte
 <table>
   <tr>
     <td width="50%" valign="top">
+      <p align="center"><img src="assets/projects/wonder-woman.svg" width="150" alt="Wonder Woman project logo"></p>
       <h3><a href="https://github.com/ma-nucho-pro/Wonder-Woman-Claude-Code">Wonder Woman Claude Code</a></h3>
       <p>Adversarial multi-agent verification that challenges factual claims with independent, evidence-based review before release.</p>
       <a href="https://github.com/ma-nucho-pro/Wonder-Woman-Claude-Code"><img src="https://img.shields.io/github/stars/ma-nucho-pro/Wonder-Woman-Claude-Code?style=flat-square&label=stars" alt="Wonder Woman Claude Code stars"></a>
     </td>
     <td width="50%" valign="top">
+      <p align="center"><img src="assets/projects/gta-manucho.svg" width="150" alt="GTA-MANUCHO-ONLINE project logo"></p>
       <h3><a href="https://github.com/ma-nucho-pro/GTA-MANUCHO-ONLINE">GTA-MANUCHO-ONLINE</a></h3>
       <p>An open-world experiment generated from a single prompt — a playful test of how far agentic creation can go when software becomes a medium.</p>
       <a href="https://github.com/ma-nucho-pro/GTA-MANUCHO-ONLINE"><img src="https://img.shields.io/github/stars/ma-nucho-pro/GTA-MANUCHO-ONLINE?style=flat-square&label=stars" alt="GTA MANUCHO ONLINE stars"></a>
