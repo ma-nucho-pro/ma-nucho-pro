@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="96" viewBox="0 0 160 96" role="img" aria-labelledby="title description">
+  <title id="title">Wonder Woman project logo</title>
+  <desc id="description">Code-generated local logo for Wonder Woman</desc>
+  <defs><linearGradient id="glow" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff7b72" stop-opacity=".22"/><stop offset="1" stop-color="#0d1117" stop-opacity="0"/></linearGradient></defs><rect x="1" y="1" width="158" height="94" rx="14" fill="#0d1117" stroke="#ff7b72" /><rect x="2" y="2" width="156" height="92" rx="13" fill="url(#glow)"/><path d="M12 74h136M12 22h136" stroke="#ff7b72" stroke-opacity=".18"/><g><path d="m48 13 7 17 18 2-14 12 4 19-15-10-15 10 4-19-14-12 18-2z" stroke="#ff7b72" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" fill="none"/></g><text x="96" y="43" fill="#f0eadf" font-family="Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="1">WW</text><text x="96" y="63" fill="#8b949e" font-family="Arial, sans-serif" font-size="9" letter-spacing="1.4">WONDER WOMAN</text>
+</svg>

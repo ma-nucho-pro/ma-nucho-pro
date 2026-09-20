@@ -129,11 +129,13 @@ around the current system rather than as a random list of projects.
 <table>
   <tr>
     <td width="50%" valign="top">
+      <p align="center"><img src="assets/projects/wife.svg" width="150" alt="Wife project logo"></p>
       <h3><a href="https://github.com/ma-nucho-pro/wife">Wife</a></h3>
       <p>Local-first, evidence-aware memory and project continuity for AI coding agents. Checkpoints, context packs and auditable receipts without telemetry.</p>
       <a href="https://github.com/ma-nucho-pro/wife"><img src="https://img.shields.io/github/stars/ma-nucho-pro/wife?style=flat-square&label=stars" alt="Wife stars"></a>
     </td>
     <td width="50%" valign="top">
+      <p align="center"><img src="assets/projects/manumcp.svg" width="150" alt="ManuMCP project logo"></p>
       <h3><a href="https://github.com/ma-nucho-pro/ManuMCP">ManuMCP</a></h3>
       <p>A cross-platform local MCP agent for ChatGPT, Codex, Claude Code, Gemini CLI and Cursor, with whole-computer files, apps and desktop control.</p>
       <a href="https://github.com/ma-nucho-pro/ManuMCP"><img src="https://img.shields.io/github/stars/ma-nucho-pro/ManuMCP?style=flat-square&label=stars" alt="ManuMCP stars"></a>
@@ -141,11 +143,13 @@ around the current system rather than as a random list of projects.
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <p align="center"><img src="assets/projects/manuloop.svg" width="150" alt="ManuLOOP project logo"></p>
       <h3><a href="https://github.com/ma-nucho-pro/manuloop">ManuLOOP</a></h3>
       <p>A hybrid Agent Skill and CLI for build, verify, judge and fix loops across Codex, Claude Code, Gemini CLI and custom harnesses.</p>
       <a href="https://github.com/ma-nucho-pro/manuloop"><img src="https://img.shields.io/github/stars/ma-nucho-pro/manuloop?style=flat-square&label=stars" alt="ManuLOOP stars"></a>
     </td>
     <td width="50%" valign="top">
+      <p align="center"><img src="assets/projects/clear-mirror.svg" width="150" alt="Clear Mirror project logo"></p>
       <h3><a href="https://github.com/ma-nucho-pro/clear-mirror">Clear Mirror</a></h3>
       <p>Judge-gated task orchestration with context recovery, real subagents, preflight reviews, repair loops and verified delivery.</p>
       <a href="https://github.com/ma-nucho-pro/clear-mirror"><img src="https://img.shields.io/github/stars/ma-nucho-pro/clear-mirror?style=flat-square&label=stars" alt="Clear Mirror stars"></a>
@@ -153,11 +157,13 @@ around the current system rather than as a random list of projects.
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <p align="center"><img src="assets/projects/shotpilot.svg" width="150" alt="ShotPilot project logo"></p>
       <h3><a href="https://github.com/ma-nucho-pro/shotpilot">ShotPilot</a></h3>
       <p>A portable image-generation Agent Skill that preserves intent, validates a visual spec and routes it to the capability actually available.</p>
       <a href="https://github.com/ma-nucho-pro/shotpilot"><img src="https://img.shields.io/github/stars/ma-nucho-pro/shotpilot?style=flat-square&label=stars" alt="ShotPilot stars"></a>
     </td>
     <td width="50%" valign="top">
+      <p align="center"><img src="assets/projects/arkea.svg" width="150" alt="ARKEA IA project logo"></p>
       <h3><a href="https://github.com/ma-nucho-pro/ARKEA-AI-AGENTE">ARKEA AI OmniAgent</a></h3>
       <p>An open-source Windows desktop agent with voice, vision, local memory, Ollama, OpenRouter, OpenAI, ElevenLabs, MCP and document, image and automation workflows.</p>
       <a href="https://github.com/ma-nucho-pro/ARKEA-AI-AGENTE"><img src="https://img.shields.io/github/stars/ma-nucho-pro/ARKEA-AI-AGENTE?style=flat-square&label=stars" alt="ARKEA AI stars"></a>
@@ -167,12 +173,30 @@ around the current system rather than as a random list of projects.
 
 ### Recent build line / Línea reciente de construcción
 
-| Project | What it adds |
-| --- | --- |
-| [SupervisorLLM](https://github.com/ma-nucho-pro/supervisorLLM) + [plugin](https://github.com/ma-nucho-pro/supervisorLLM-plugin) | A universal quality gate that researches, red-teams, tests and judges AI-generated work before release. |
-| [Wonder Woman Claude Code](https://github.com/ma-nucho-pro/Wonder-Woman-Claude-Code) | Adversarial multi-agent verification for factual claims and evidence. |
-| [Wingman](https://github.com/ma-nucho-pro/Wingman) | Open-source memory that follows a project across Claude Code, Codex, Gemini CLI and Cursor. |
-| [GTA-MANUCHO-ONLINE](https://github.com/ma-nucho-pro/GTA-MANUCHO-ONLINE) | A playful open-world experiment generated from one prompt to test agentic creation. |
+<table>
+  <tr>
+    <td width="25%" align="center" valign="top">
+      <img src="assets/projects/supervisorllm.svg" width="150" alt="SupervisorLLM project logo">
+      <br><a href="https://github.com/ma-nucho-pro/supervisorLLM"><strong>SupervisorLLM</strong></a>
+      <br><sub>Quality gates for AI-generated work.</sub>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <img src="assets/projects/wonder-woman.svg" width="150" alt="Wonder Woman project logo">
+      <br><a href="https://github.com/ma-nucho-pro/Wonder-Woman-Claude-Code"><strong>Wonder Woman</strong></a>
+      <br><sub>Adversarial evidence review.</sub>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <img src="assets/projects/wingman.svg" width="150" alt="Wingman project logo">
+      <br><a href="https://github.com/ma-nucho-pro/Wingman"><strong>Wingman</strong></a>
+      <br><sub>Memory that follows the project.</sub>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <img src="assets/projects/gta-manucho.svg" width="150" alt="GTA-MANUCHO-ONLINE project logo">
+      <br><a href="https://github.com/ma-nucho-pro/GTA-MANUCHO-ONLINE"><strong>GTA-MANUCHO</strong></a>
+      <br><sub>Agentic creation as a game.</sub>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <a href="https://github.com/ma-nucho-pro?tab=repositories">See all repositories →</a>
@@ -184,9 +208,7 @@ The board below is connected to my real public GitHub contribution history. The
 snake eats the cells that actually exist; it is not a fabricated activity counter.
 
 <p align="center">
-  <a href="https://github.com/ma-nucho-pro">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ma-nucho-pro&bg_color=0d1117&color=d5a935&line=d5a935&point=f0eadf&area_color=3b2d10&area=true&hide_border=true&custom_title=Roberto%20%2F%20ManuchoAI%20-%20public%20activity" alt="GitHub activity graph for ma-nucho-pro" width="96%">
-  </a>
+  <img src="assets/github/activity-graph.svg" alt="Code-generated GitHub activity graph for ma-nucho-pro" width="96%">
 </p>
 
 <p align="center">
@@ -194,16 +216,12 @@ snake eats the cells that actually exist; it is not a fabricated activity counte
 </p>
 
 <p align="center">
-  <a href="https://github.com/ma-nucho-pro">
-    <img src="https://github-readme-stats.vercel.app/api?username=ma-nucho-pro&show_icons=true&hide_border=true&bg_color=0d1117&title_color=d5a935&text_color=f0eadf&icon_color=d5a935&include_all_commits=true" alt="GitHub stats for ma-nucho-pro" height="165">
-  </a>
-  <a href="https://github.com/ma-nucho-pro">
-    <img src="https://streak-stats.demolab.com?user=ma-nucho-pro&theme=dark&hide_border=true&background=0d1117&ring=d5a935&fire=d5a935&currStreakLabel=d5a935" alt="GitHub contribution streak for ma-nucho-pro" height="165">
-  </a>
+  <img src="assets/github/stats.svg" alt="Code-generated GitHub stats for ma-nucho-pro" width="49%">
+  <img src="assets/github/streak.svg" alt="Code-generated GitHub streak summary for ma-nucho-pro" width="49%">
 </p>
 
 <p align="center">
-  <sub>The snake workflow runs from <code>.github/workflows/snake.yml</code> and refreshes the animation on schedule and on profile updates.</sub>
+  <sub>The activity panels are generated by <code>scripts/generate-profile-visuals.mjs</code> from GitHub data and refreshed by Actions. No external stats image service.</sub>
 </p>
 
 ## Quality, research & experiments

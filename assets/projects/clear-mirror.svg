@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="96" viewBox="0 0 160 96" role="img" aria-labelledby="title description">
+  <title id="title">Clear Mirror project logo</title>
+  <desc id="description">Code-generated local logo for Clear Mirror</desc>
+  <defs><linearGradient id="glow" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#d5a935" stop-opacity=".22"/><stop offset="1" stop-color="#0d1117" stop-opacity="0"/></linearGradient></defs><rect x="1" y="1" width="158" height="94" rx="14" fill="#0d1117" stroke="#d5a935" /><rect x="2" y="2" width="156" height="92" rx="13" fill="url(#glow)"/><path d="M12 74h136M12 22h136" stroke="#d5a935" stroke-opacity=".18"/><g><path d="M48 14 72 27v23L48 64 24 50V27z" stroke="#d5a935" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" fill="none"/><path d="M48 14v50M24 27l24 13 24-13M24 50l24-13 24 13" stroke="#d5a935" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" fill="none"/></g><text x="96" y="43" fill="#f0eadf" font-family="Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="1">CM</text><text x="96" y="63" fill="#8b949e" font-family="Arial, sans-serif" font-size="9" letter-spacing="1.4">CLEAR MIRROR</text>
+</svg>

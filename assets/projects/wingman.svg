@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="96" viewBox="0 0 160 96" role="img" aria-labelledby="title description">
+  <title id="title">Wingman project logo</title>
+  <desc id="description">Code-generated local logo for Wingman</desc>
+  <defs><linearGradient id="glow" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#79c0ff" stop-opacity=".22"/><stop offset="1" stop-color="#0d1117" stop-opacity="0"/></linearGradient></defs><rect x="1" y="1" width="158" height="94" rx="14" fill="#0d1117" stroke="#79c0ff" /><rect x="2" y="2" width="156" height="92" rx="13" fill="url(#glow)"/><path d="M12 74h136M12 22h136" stroke="#79c0ff" stroke-opacity=".18"/><g><path d="M47 37C37 21 24 20 18 25c8 2 14 8 17 16-8-5-16-4-21 2 12 0 21 6 28 15M49 37c10-16 23-17 29-12-8 2-14 8-17 16 8-5 16-4 21 2-12 0-21 6-28 15" stroke="#79c0ff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" fill="none"/></g><text x="96" y="43" fill="#f0eadf" font-family="Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="1">W</text><text x="96" y="63" fill="#8b949e" font-family="Arial, sans-serif" font-size="9" letter-spacing="1.4">WINGMAN</text>
+</svg>
