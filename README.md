@@ -277,26 +277,13 @@ reproducibles y los fallos honestos son siempre bienvenidos.
   <sub>Open source · practical AI · clear thinking · useful systems</sub>
 </p>
 
-## GIFs that represent the work
-
-<table>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/ma-nucho-pro/wife">
-        <img src="https://raw.githubusercontent.com/ma-nucho-pro/wife/main/assets/wife-logo-loop.gif" width="420" alt="Animated Wife logo">
-      </a>
-      <br>
-      <sub><strong>Wife</strong> — memory, continuity and evidence for AI coding work.</sub>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <a href="https://arkeaia.com/">
-        <img src="assets/arkea-profile-sting.gif" width="420" alt="ARKEA IA 3D mark rotating while AI focus phrases type in">
-      </a>
-      <br>
-      <sub><strong>ARKEA IA</strong> — the product layer where the systems become useful.</sub>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/ma-nucho-pro/wife">
+    <img src="https://raw.githubusercontent.com/ma-nucho-pro/wife/main/assets/wife-logo-loop.gif" width="420" alt="Animated Wife logo">
+  </a>
+  <br>
+  <sub><strong>Wife</strong> — memory, continuity and evidence for AI coding work.</sub>
+</p>
 
 <p align="center">
   <sub>Remember · Reach · Orchestrate · Create · Verify</sub>

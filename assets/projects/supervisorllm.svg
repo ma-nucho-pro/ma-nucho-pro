@@ -1,6 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="160" height="96" viewBox="0 0 160 96" role="img" aria-labelledby="title description">
-  <title id="title">SupervisorLLM project logo</title>
-  <desc id="description">Code-generated local logo for SupervisorLLM</desc>
-  <defs><linearGradient id="glow" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f778ba" stop-opacity=".22"/><stop offset="1" stop-color="#0d1117" stop-opacity="0"/></linearGradient></defs><rect x="1" y="1" width="158" height="94" rx="14" fill="#0d1117" stroke="#f778ba" /><rect x="2" y="2" width="156" height="92" rx="13" fill="url(#glow)"/><path d="M12 74h136M12 22h136" stroke="#f778ba" stroke-opacity=".18"/><g><path d="M48 14 71 23v17c0 15-10 25-23 31-13-6-23-16-23-31V23z" stroke="#f778ba" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" fill="none"/><path d="m36 40 8 8 17-18" stroke="#f778ba" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" fill="none"/></g><text x="96" y="43" fill="#f0eadf" font-family="Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="1">S</text><text x="96" y="63" fill="#8b949e" font-family="Arial, sans-serif" font-size="9" letter-spacing="1.4">SUPERVISORLLM</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="112" viewBox="0 0 180 112" role="img" aria-labelledby="title desc">
+  <title id="title">SupervisorLLM project mark</title>
+  <desc id="desc">A multi-agent quality gate with researchers, red team reviewers and a release decision.</desc>
+  <defs>
+    <linearGradient id="sup-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#28132f"/>
+      <stop offset="1" stop-color="#11101c"/>
+    </linearGradient>
+    <linearGradient id="sup-shield" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffb1dc"/>
+      <stop offset=".5" stop-color="#d45cf1"/>
+      <stop offset="1" stop-color="#7b4fe6"/>
+    </linearGradient>
+    <filter id="sup-shadow" x="-30%" y="-30%" width="160%" height="170%">
+      <feDropShadow dx="0" dy="5" stdDeviation="5" flood-color="#000" flood-opacity=".46"/>
+    </filter>
+  </defs>
+  <rect x="1" y="1" width="178" height="110" rx="18" fill="url(#sup-bg)" stroke="#ec78cc" stroke-opacity=".72"/>
+  <path d="M12 83h156" stroke="#ec78cc" stroke-opacity=".2"/>
+  <g filter="url(#sup-shadow)">
+    <path d="M50 17 78 27v22c0 17-12 28-28 36-16-8-28-19-28-36V27z" fill="#171126" stroke="url(#sup-shield)" stroke-width="2.2"/>
+    <circle cx="38" cy="42" r="5" fill="#ffd2f0"/><circle cx="62" cy="42" r="5" fill="#ffd2f0"/>
+    <circle cx="50" cy="61" r="6" fill="#fff1fb"/>
+    <path d="M38 42 50 61 62 42M50 61v11" fill="none" stroke="#ee83d4" stroke-width="2"/>
+    <path d="m42 58 6 6 12-14" fill="none" stroke="#8b5cf6" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g fill="none" stroke="#df89e3" stroke-linecap="round">
+    <path d="M91 29h59M91 42h45M91 55h52" stroke-width="2" opacity=".66"/>
+    <path d="M91 68h30" stroke-width="1.6" opacity=".44"/>
+  </g>
+  <circle cx="94" cy="29" r="3" fill="#ffb1dc"/><circle cx="94" cy="42" r="3" fill="#d45cf1"/><circle cx="94" cy="55" r="3" fill="#8b5cf6"/>
+  <text x="91" y="83" fill="#fff0fb" font-family="Segoe UI,Arial,sans-serif" font-size="10.5" font-weight="700" letter-spacing="1.05">SUPERVISORLLM</text>
+  <text x="91" y="98" fill="#d99bdd" font-family="Segoe UI,Arial,sans-serif" font-size="7.1" font-weight="600" letter-spacing=".25">MULTI-AGENT QUALITY GATE</text>
 </svg>

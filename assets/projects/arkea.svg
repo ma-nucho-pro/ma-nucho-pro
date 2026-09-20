@@ -1,6 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="160" height="96" viewBox="0 0 160 96" role="img" aria-labelledby="title description">
-  <title id="title">ARKEA IA project logo</title>
-  <desc id="description">Code-generated local logo for ARKEA IA</desc>
-  <defs><linearGradient id="glow" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#d5a935" stop-opacity=".22"/><stop offset="1" stop-color="#0d1117" stop-opacity="0"/></linearGradient></defs><rect x="1" y="1" width="158" height="94" rx="14" fill="#0d1117" stroke="#d5a935" /><rect x="2" y="2" width="156" height="92" rx="13" fill="url(#glow)"/><path d="M12 74h136M12 22h136" stroke="#d5a935" stroke-opacity=".18"/><g><path d="M27 58 48 16l18 42-18-11z" fill="#d5a935" opacity=".9"/><path d="m48 16 24 36-24-5-18 11z" fill="none" stroke="#f0eadf" stroke-width="3" stroke-linejoin="round"/><path d="M34 61h33" stroke="#d5a935" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" fill="none"/></g><text x="96" y="43" fill="#f0eadf" font-family="Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="1">A</text><text x="96" y="63" fill="#8b949e" font-family="Arial, sans-serif" font-size="9" letter-spacing="1.4">ARKEA IA</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="112" viewBox="0 0 180 112" role="img" aria-labelledby="title desc">
+  <title id="title">ARKEA AI project mark</title>
+  <desc id="desc">A faceted gold AI core and orbiting signal paths representing ARKEA AI OmniAgent.</desc>
+  <defs>
+    <linearGradient id="arkea-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#19150b"/>
+      <stop offset=".52" stop-color="#0e1118"/>
+      <stop offset="1" stop-color="#080b10"/>
+    </linearGradient>
+    <linearGradient id="arkea-gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fff0a6"/>
+      <stop offset=".34" stop-color="#d5a935"/>
+      <stop offset=".72" stop-color="#a66e16"/>
+      <stop offset="1" stop-color="#ffe27d"/>
+    </linearGradient>
+    <linearGradient id="arkea-face" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f5ca58"/>
+      <stop offset="1" stop-color="#83510e"/>
+    </linearGradient>
+    <filter id="arkea-glow" x="-35%" y="-35%" width="170%" height="180%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect x="1" y="1" width="178" height="110" rx="18" fill="url(#arkea-bg)" stroke="#d5a935" stroke-opacity=".74"/>
+  <circle cx="48" cy="49" r="34" fill="none" stroke="#d5a935" stroke-opacity=".14"/>
+  <ellipse cx="48" cy="49" rx="38" ry="14" fill="none" stroke="#f5ca58" stroke-opacity=".38" transform="rotate(-24 48 49)"/>
+  <ellipse cx="48" cy="49" rx="38" ry="14" fill="none" stroke="#f5ca58" stroke-opacity=".27" transform="rotate(34 48 49)"/>
+  <g filter="url(#arkea-glow)">
+    <path d="M28 72 47 24l25 48-13-8-12-29-8 23z" fill="url(#arkea-gold)"/>
+    <path d="m47 24 13 48-13-8-7-23z" fill="#fff0a6" opacity=".72"/>
+    <path d="m36 57 12-4 13 4-4 8-9-4-8 4z" fill="url(#arkea-face)"/>
+    <circle cx="47" cy="49" r="3" fill="#fff4c6"/>
+  </g>
+  <circle cx="18" cy="35" r="2" fill="#ffe27d"/><circle cx="78" cy="30" r="2" fill="#ffe27d"/><circle cx="80" cy="70" r="2" fill="#d5a935"/>
+  <path d="M12 84h156" stroke="#d5a935" stroke-opacity=".2"/>
+  <text x="98" y="45" fill="#fff3c4" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="2">ARKEA</text>
+  <text x="98" y="64" fill="#d5a935" font-family="Segoe UI,Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="2.5">AI</text>
+  <text x="98" y="78" fill="#a9956b" font-family="Segoe UI,Arial,sans-serif" font-size="7.1" font-weight="600" letter-spacing=".25">DESKTOP OMNIAGENT</text>
 </svg>

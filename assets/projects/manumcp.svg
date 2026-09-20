@@ -1,6 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="160" height="96" viewBox="0 0 160 96" role="img" aria-labelledby="title description">
-  <title id="title">ManuMCP project logo</title>
-  <desc id="description">Code-generated local logo for ManuMCP</desc>
-  <defs><linearGradient id="glow" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#58a6ff" stop-opacity=".22"/><stop offset="1" stop-color="#0d1117" stop-opacity="0"/></linearGradient></defs><rect x="1" y="1" width="158" height="94" rx="14" fill="#0d1117" stroke="#58a6ff" /><rect x="2" y="2" width="156" height="92" rx="13" fill="url(#glow)"/><path d="M12 74h136M12 22h136" stroke="#58a6ff" stroke-opacity=".18"/><g><path d="M25 29h22v18H25zM47 38h12M59 32v12M59 32h10M59 44h10" stroke="#58a6ff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" fill="none"/><circle cx="75" cy="32" r="4" fill="#58a6ff"/><circle cx="75" cy="44" r="4" fill="#58a6ff"/></g><text x="96" y="43" fill="#f0eadf" font-family="Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="1">MCP</text><text x="96" y="63" fill="#8b949e" font-family="Arial, sans-serif" font-size="9" letter-spacing="1.4">MANUMCP</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="112" viewBox="0 0 180 112" role="img" aria-labelledby="title desc">
+  <title id="title">ManuMCP project mark</title>
+  <desc id="desc">A local computer connected to an MCP tool network for safe desktop control.</desc>
+  <defs>
+    <linearGradient id="mcp-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1f33"/>
+      <stop offset="1" stop-color="#0c111b"/>
+    </linearGradient>
+    <linearGradient id="mcp-screen" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#183e62"/>
+      <stop offset="1" stop-color="#0a1728"/>
+    </linearGradient>
+    <linearGradient id="mcp-cyan" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#8be9ff"/>
+      <stop offset="1" stop-color="#4d9dff"/>
+    </linearGradient>
+    <filter id="mcp-shadow" x="-25%" y="-30%" width="160%" height="170%">
+      <feDropShadow dx="0" dy="5" stdDeviation="5" flood-color="#000" flood-opacity=".45"/>
+    </filter>
+  </defs>
+  <rect x="1" y="1" width="178" height="110" rx="18" fill="url(#mcp-bg)" stroke="#55b8ff" stroke-opacity=".72"/>
+  <path d="M12 83h156" stroke="#55b8ff" stroke-opacity=".2"/>
+  <g filter="url(#mcp-shadow)">
+    <rect x="15" y="22" width="69" height="47" rx="6" fill="#07111e" stroke="#8be9ff" stroke-width="1.8"/>
+    <rect x="20" y="28" width="59" height="33" rx="3" fill="url(#mcp-screen)"/>
+    <circle cx="24" cy="25" r="1.8" fill="#75e6c5"/>
+    <circle cx="30" cy="25" r="1.8" fill="#ffd166"/>
+    <circle cx="36" cy="25" r="1.8" fill="#ff7b9c"/>
+    <path d="m31 38 6 5-6 5M43 49h12" fill="none" stroke="#8be9ff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M28 67h43M36 72h27" stroke="#4d9dff" stroke-width="2" stroke-linecap="round"/>
+  </g>
+  <g fill="none" stroke="#72dcff" stroke-width="1.6" stroke-linecap="round">
+    <path d="M84 45h17M84 56h27M84 66h19" stroke-dasharray="3 3"/>
+  </g>
+  <g>
+    <circle cx="111" cy="39" r="8" fill="#123a56" stroke="#8be9ff" stroke-width="1.5"/>
+    <circle cx="139" cy="53" r="8" fill="#123a56" stroke="#8be9ff" stroke-width="1.5"/>
+    <circle cx="116" cy="70" r="8" fill="#123a56" stroke="#8be9ff" stroke-width="1.5"/>
+    <path d="M116 39h-5M131 53h-12M121 70h-5M139 45v-6" stroke="#8be9ff" stroke-width="1.6" stroke-linecap="round"/>
+    <path d="m108 39 3-3v6zM128 53l4-3v6zM113 70l3-3v6z" fill="#8be9ff"/>
+    <path d="M108 36h6v6h-6zM136 49h6v7h-6zM113 67h6v6h-6z" fill="none" stroke="#d5f8ff" stroke-width="1"/>
+  </g>
+  <text x="15" y="97" fill="#d8f8ff" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="1.8">MANUMCP</text>
+  <text x="103" y="97" fill="#73c9ed" font-family="Segoe UI,Arial,sans-serif" font-size="7.2" font-weight="600" letter-spacing=".7">LOCAL MCP CONTROL</text>
 </svg>

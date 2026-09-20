@@ -1,6 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="160" height="96" viewBox="0 0 160 96" role="img" aria-labelledby="title description">
-  <title id="title">ShotPilot project logo</title>
-  <desc id="description">Code-generated local logo for ShotPilot</desc>
-  <defs><linearGradient id="glow" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff7b72" stop-opacity=".22"/><stop offset="1" stop-color="#0d1117" stop-opacity="0"/></linearGradient></defs><rect x="1" y="1" width="158" height="94" rx="14" fill="#0d1117" stroke="#ff7b72" /><rect x="2" y="2" width="156" height="92" rx="13" fill="url(#glow)"/><path d="M12 74h136M12 22h136" stroke="#ff7b72" stroke-opacity=".18"/><g><circle cx="48" cy="38" r="24" stroke="#ff7b72" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" fill="none"/><path d="M48 10v14M48 52v14M20 38h14M62 38h14M42 44l12-12-4 16z" stroke="#ff7b72" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" fill="none"/></g><text x="96" y="43" fill="#f0eadf" font-family="Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="1">SP</text><text x="96" y="63" fill="#8b949e" font-family="Arial, sans-serif" font-size="9" letter-spacing="1.4">SHOTPILOT</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="112" viewBox="0 0 180 112" role="img" aria-labelledby="title desc">
+  <title id="title">ShotPilot project mark</title>
+  <desc id="desc">A camera viewfinder connected to a structured visual prompt for agent-native image generation.</desc>
+  <defs>
+    <linearGradient id="shot-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#28142a"/>
+      <stop offset="1" stop-color="#11131f"/>
+    </linearGradient>
+    <linearGradient id="shot-lens" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffcf70"/>
+      <stop offset=".45" stop-color="#ff789f"/>
+      <stop offset="1" stop-color="#a755ef"/>
+    </linearGradient>
+    <filter id="shot-shadow" x="-30%" y="-30%" width="160%" height="170%">
+      <feDropShadow dx="0" dy="5" stdDeviation="5" flood-color="#000" flood-opacity=".46"/>
+    </filter>
+  </defs>
+  <rect x="1" y="1" width="178" height="110" rx="18" fill="url(#shot-bg)" stroke="#ff8da8" stroke-opacity=".72"/>
+  <path d="M12 83h156" stroke="#ff8da8" stroke-opacity=".2"/>
+  <g filter="url(#shot-shadow)">
+    <path d="M15 35h12l5-9h24l5 9h12v35H15z" fill="#2d1837" stroke="#ff9eb0" stroke-width="1.8" stroke-linejoin="round"/>
+    <circle cx="44" cy="52" r="16" fill="#171223" stroke="url(#shot-lens)" stroke-width="4"/>
+    <circle cx="44" cy="52" r="7" fill="url(#shot-lens)"/>
+    <path d="M44 31v8M44 65v8M23 52h8M57 52h8" stroke="#ffe3b0" stroke-width="1.6" stroke-linecap="round"/>
+    <path d="M71 42h9v20h-9" fill="#4e254e" stroke="#ff9eb0" stroke-width="1.4"/>
+  </g>
+  <path d="M88 49h9" stroke="#ffc4d4" stroke-width="2" stroke-dasharray="3 3"/>
+  <g filter="url(#shot-shadow)">
+    <rect x="101" y="23" width="56" height="51" rx="7" fill="#171423" stroke="#ffcf70" stroke-width="1.5"/>
+    <path d="M109 35h25M109 43h38M109 51h30" stroke="#ffb3bf" stroke-width="2" stroke-linecap="round"/>
+    <path d="M109 62h14l5-7 7 6 7-4 8 5" fill="none" stroke="url(#shot-lens)" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="15" y="97" fill="#fff2df" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="1.6">SHOTPILOT</text>
+  <text x="101" y="97" fill="#e7a9e8" font-family="Segoe UI,Arial,sans-serif" font-size="7.1" font-weight="600" letter-spacing=".35">PROMPT TO IMAGE</text>
 </svg>

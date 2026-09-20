@@ -1,6 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="160" height="96" viewBox="0 0 160 96" role="img" aria-labelledby="title description">
-  <title id="title">Wonder Woman project logo</title>
-  <desc id="description">Code-generated local logo for Wonder Woman</desc>
-  <defs><linearGradient id="glow" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff7b72" stop-opacity=".22"/><stop offset="1" stop-color="#0d1117" stop-opacity="0"/></linearGradient></defs><rect x="1" y="1" width="158" height="94" rx="14" fill="#0d1117" stroke="#ff7b72" /><rect x="2" y="2" width="156" height="92" rx="13" fill="url(#glow)"/><path d="M12 74h136M12 22h136" stroke="#ff7b72" stroke-opacity=".18"/><g><path d="m48 13 7 17 18 2-14 12 4 19-15-10-15 10 4-19-14-12 18-2z" stroke="#ff7b72" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" fill="none"/></g><text x="96" y="43" fill="#f0eadf" font-family="Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="1">WW</text><text x="96" y="63" fill="#8b949e" font-family="Arial, sans-serif" font-size="9" letter-spacing="1.4">WONDER WOMAN</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="112" viewBox="0 0 180 112" role="img" aria-labelledby="title desc">
+  <title id="title">Wonder Woman Claude Code project mark</title>
+  <desc id="desc">A gold star and evidence shield representing the sixteen-judge adversarial verification tribunal.</desc>
+  <defs>
+    <linearGradient id="ww-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#29151d"/>
+      <stop offset="1" stop-color="#10121c"/>
+    </linearGradient>
+    <linearGradient id="ww-gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fff2a6"/>
+      <stop offset=".52" stop-color="#f0b52b"/>
+      <stop offset="1" stop-color="#bd6b18"/>
+    </linearGradient>
+    <filter id="ww-shadow" x="-30%" y="-30%" width="160%" height="170%">
+      <feDropShadow dx="0" dy="5" stdDeviation="5" flood-color="#000" flood-opacity=".48"/>
+    </filter>
+  </defs>
+  <rect x="1" y="1" width="178" height="110" rx="18" fill="url(#ww-bg)" stroke="#f0a34a" stroke-opacity=".72"/>
+  <path d="M12 83h156" stroke="#f0a34a" stroke-opacity=".2"/>
+  <g filter="url(#ww-shadow)">
+    <path d="M50 17 57 31l16 2-12 11 3 16-14-8-14 8 3-16-12-11 16-2z" fill="url(#ww-gold)" stroke="#fff0ab" stroke-width="1.5" stroke-linejoin="round"/>
+    <path d="M50 45v29" stroke="#f6c95b" stroke-width="3"/>
+    <path d="M31 55c5 8 12 13 19 17 7-4 14-9 19-17" fill="none" stroke="#d87427" stroke-width="2"/>
+    <circle cx="50" cy="45" r="7" fill="#3c1722" stroke="#fff0ab" stroke-width="1.2"/>
+    <path d="m46 45 3 3 6-7" fill="none" stroke="#fff2c4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g fill="#ffcf5e">
+    <circle cx="87" cy="27" r="2"/><circle cx="93" cy="35" r="2"/><circle cx="90" cy="45" r="2"/><circle cx="94" cy="55" r="2"/>
+  </g>
+  <path d="M100 27h50M100 40h43M100 53h48M100 66h35" stroke="#f1b86b" stroke-opacity=".58" stroke-width="2" stroke-linecap="round"/>
+  <text x="100" y="84" fill="#fff4cb" font-family="Segoe UI,Arial,sans-serif" font-size="10.5" font-weight="700" letter-spacing="1">WONDER WOMAN</text>
+  <text x="100" y="98" fill="#e9aa68" font-family="Segoe UI,Arial,sans-serif" font-size="7.4" font-weight="600" letter-spacing=".45">16-JUDGE VERIFICATION</text>
 </svg>
