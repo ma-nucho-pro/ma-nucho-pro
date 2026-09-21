@@ -2,6 +2,12 @@
   <img src="assets/arkea-profile-sting.gif" alt="ARKEA IA 3D identity motion with changing typewriter phrases by Roberto Manuel Jara Peche" width="100%">
 </p>
 
+<!-- manucho-readme-banner:start -->
+<p align="center">
+  <img src="assets/readme/banner.svg" alt="MA-NUCHO PRO project overview" width="100%">
+</p>
+<!-- manucho-readme-banner:end -->
+
 <h1 align="center">Roberto Manuel Jara Peche · @ManuchoAI</h1>
 
 <p align="center">
