@@ -284,5 +284,9 @@ reproducibles y los fallos honestos son siempre bienvenidos.
 </p>
 
 <p align="center">
+  <img src="assets/arkea-profile-sting.gif" alt="ARKEA IA 3D identity motion with changing typewriter phrases by Roberto Manuel Jara Peche" width="100%">
+</p>
+
+<p align="center">
   <sub>Remember · Reach · Orchestrate · Create · Verify</sub>
 </p>
