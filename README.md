@@ -138,13 +138,11 @@ around the current system rather than as a random list of projects.
       <p align="center"><img src="assets/projects/wife.svg" width="150" alt="Wife project logo"></p>
       <h3><a href="https://github.com/ma-nucho-pro/wife">Wife</a></h3>
       <p>Local-first, evidence-aware memory and project continuity for AI coding agents. Checkpoints, context packs and auditable receipts without telemetry.</p>
-      <a href="https://github.com/ma-nucho-pro/wife"><img src="https://img.shields.io/github/stars/ma-nucho-pro/wife?style=flat-square&label=stars" alt="Wife stars"></a>
     </td>
     <td width="50%" valign="top">
       <p align="center"><img src="assets/projects/manumcp.svg" width="150" alt="ManuMCP project logo"></p>
       <h3><a href="https://github.com/ma-nucho-pro/ManuMCP">ManuMCP</a></h3>
       <p>A cross-platform local MCP agent for ChatGPT, Codex, Claude Code, Gemini CLI and Cursor, with whole-computer files, apps and desktop control.</p>
-      <a href="https://github.com/ma-nucho-pro/ManuMCP"><img src="https://img.shields.io/github/stars/ma-nucho-pro/ManuMCP?style=flat-square&label=stars" alt="ManuMCP stars"></a>
     </td>
   </tr>
   <tr>
@@ -152,13 +150,11 @@ around the current system rather than as a random list of projects.
       <p align="center"><img src="assets/projects/manuloop.svg" width="150" alt="ManuLOOP project logo"></p>
       <h3><a href="https://github.com/ma-nucho-pro/manuloop">ManuLOOP</a></h3>
       <p>A hybrid Agent Skill and CLI for build, verify, judge and fix loops across Codex, Claude Code, Gemini CLI and custom harnesses.</p>
-      <a href="https://github.com/ma-nucho-pro/manuloop"><img src="https://img.shields.io/github/stars/ma-nucho-pro/manuloop?style=flat-square&label=stars" alt="ManuLOOP stars"></a>
     </td>
     <td width="50%" valign="top">
       <p align="center"><img src="assets/projects/clear-mirror.svg" width="150" alt="Clear Mirror project logo"></p>
       <h3><a href="https://github.com/ma-nucho-pro/clear-mirror">Clear Mirror</a></h3>
       <p>Judge-gated task orchestration with context recovery, real subagents, preflight reviews, repair loops and verified delivery.</p>
-      <a href="https://github.com/ma-nucho-pro/clear-mirror"><img src="https://img.shields.io/github/stars/ma-nucho-pro/clear-mirror?style=flat-square&label=stars" alt="Clear Mirror stars"></a>
     </td>
   </tr>
   <tr>
@@ -166,13 +162,11 @@ around the current system rather than as a random list of projects.
       <p align="center"><img src="assets/projects/shotpilot.svg" width="150" alt="ShotPilot project logo"></p>
       <h3><a href="https://github.com/ma-nucho-pro/shotpilot">ShotPilot</a></h3>
       <p>A portable image-generation Agent Skill that preserves intent, validates a visual spec and routes it to the capability actually available.</p>
-      <a href="https://github.com/ma-nucho-pro/shotpilot"><img src="https://img.shields.io/github/stars/ma-nucho-pro/shotpilot?style=flat-square&label=stars" alt="ShotPilot stars"></a>
     </td>
     <td width="50%" valign="top">
       <p align="center"><img src="assets/projects/arkea.svg" width="150" alt="ARKEA IA project logo"></p>
       <h3><a href="https://github.com/ma-nucho-pro/ARKEA-AI-AGENTE">ARKEA AI OmniAgent</a></h3>
       <p>An open-source Windows desktop agent with voice, vision, local memory, Ollama, OpenRouter, OpenAI, ElevenLabs, MCP and document, image and automation workflows.</p>
-      <a href="https://github.com/ma-nucho-pro/ARKEA-AI-AGENTE"><img src="https://img.shields.io/github/stars/ma-nucho-pro/ARKEA-AI-AGENTE?style=flat-square&label=stars" alt="ARKEA AI stars"></a>
     </td>
   </tr>
 </table>
@@ -233,13 +227,11 @@ snake eats the cells that actually exist; it is not a fabricated activity counte
       <p align="center"><img src="assets/projects/wonder-woman.svg" width="150" alt="Wonder Woman project logo"></p>
       <h3><a href="https://github.com/ma-nucho-pro/Wonder-Woman-Claude-Code">Wonder Woman Claude Code</a></h3>
       <p>Adversarial multi-agent verification that challenges factual claims with independent, evidence-based review before release.</p>
-      <a href="https://github.com/ma-nucho-pro/Wonder-Woman-Claude-Code"><img src="https://img.shields.io/github/stars/ma-nucho-pro/Wonder-Woman-Claude-Code?style=flat-square&label=stars" alt="Wonder Woman Claude Code stars"></a>
     </td>
     <td width="50%" valign="top">
       <p align="center"><img src="assets/projects/gta-manucho.svg" width="150" alt="GTA-MANUCHO-ONLINE project logo"></p>
       <h3><a href="https://github.com/ma-nucho-pro/GTA-MANUCHO-ONLINE">GTA-MANUCHO-ONLINE</a></h3>
       <p>An open-world experiment generated from a single prompt — a playful test of how far agentic creation can go when software becomes a medium.</p>
-      <a href="https://github.com/ma-nucho-pro/GTA-MANUCHO-ONLINE"><img src="https://img.shields.io/github/stars/ma-nucho-pro/GTA-MANUCHO-ONLINE?style=flat-square&label=stars" alt="GTA MANUCHO ONLINE stars"></a>
     </td>
   </tr>
 </table>
