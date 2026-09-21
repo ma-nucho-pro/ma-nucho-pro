@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="assets/arkea-profile-sting.gif" alt="ARKEA IA 3D identity motion with changing typewriter phrases by Roberto Manuel Jara Peche" width="100%">
+  <img src="assets/arkea-profile-typewriter.gif" alt="ARKEA IA typewriter intro: AI systems, local-first memory, MCP computer access, agent skills, orchestration and verification by Roberto Manuel Jara Peche" width="100%">
 </p>
 
 <!-- manucho-readme-banner:start -->
 <p align="center">
-  <img src="assets/readme/banner.svg" alt="MA-NUCHO PRO project overview" width="100%">
+  <img src="assets/readme/banner.svg" alt="ARKEA IA and MA-NUCHO PRO AI systems banner" width="100%">
 </p>
 <!-- manucho-readme-banner:end -->
 
