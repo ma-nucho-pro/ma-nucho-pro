@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="assets/arkea-profile-typewriter.gif" alt="ARKEA IA typewriter intro: AI systems, local-first memory, MCP computer access, agent skills, orchestration and verification by Roberto Manuel Jara Peche" width="100%">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=21&duration=3300&pause=900&color=F2B83F&background=05070B00&center=true&vCenter=true&width=1000&height=58&lines=ROBERTO+MANUEL+JARA+PECHE+%2F+%40MANUCHOAI;CO-FOUNDER+%40+ARKEA+IA+%2F+AI+SOFTWARE+BUILDER;LOCAL-FIRST+MEMORY+%2F+MCP+%2F+AGENT+SKILLS;ORCHESTRATION+%2F+CREATION+%2F+VERIFICATION;USEFUL+SYSTEMS+%2F+HONEST+EVIDENCE+%2F+REAL+DELIVERY" alt="Roberto Manuel Jara Peche — ARKEA IA typing introduction">
+  </a>
 </p>
 
 <!-- manucho-readme-banner:start -->
